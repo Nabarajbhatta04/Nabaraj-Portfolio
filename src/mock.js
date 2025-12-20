@@ -55,9 +55,9 @@ export const projects = [
     id: 3,
     title: "Portfolio Website",
     description: "A sleek, modern portfolio website showcasing projects and skills. Features smooth animations, responsive design, and an intuitive user interface.",
-    image: "/images/portfolio.PNG",
+    image: "/images/portfolio1.png",
     demoUrl: "#",
-    githubUrl: "https://github.com/Nerrybhatt",
+    githubUrl: "https://github.com/Nabarajbhatta04",
     technologies: ["React", "Tailwind CSS", "Modern UI"]
   }
 ];
